@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<doc xml:lang="ja">
+  <head>
+    <title>CarbonEmacsIcon</title>
+    <date>2007年4月10日</date>
+    <author>Kentaro Ohkouchi</author>
+    <email>nanasess@fsm.ne.jp</email>
+    <footer>$Revision: 18 $ $Date: 2007-04-10 03:28:32 +0900 (火, 10  4 2007) $</footer>
+  </head>
+  <body>
+
+    <section title="概要">
+      CarbonEmacs 用のアイコンです。
+
+      Mac OS X と Emacs のイメージを合致させてみました。
+
+      付属のペンは、パーカー51という万年筆をイメージして描きました。
+
+      使うほどに手になじむ、世界中の人々から愛されている逸品の意が込められています。
+    </section>
+
+    <section title="同梱イメージファイル">
+      <ul>
+        <li>Emacs.icns（アイコン用ファイル）</li>
+        <li>emacs_icon-1.0.ai（元画像 Illustrator10形式）</li>
+        <li>emacs_icon-1.0.eps（Illustrator10 EPS形式）</li>
+        <li>emacs_icon-1.0.psd（Illustrator から Photoshop形式へ書き出したもの）</li>
+        <li>emacs_icon-1.0.png（Photoshop から PNG形式へ書き出したもの）</li>
+      </ul>
+    </section>
+
+    <section title="ライセンス">
+      GPL 「一般公衆利用許諾契約書(General Public License)」
+
+      すべての同梱イメージファイルにおいて、GPL を適用します。
+    </section>
+
+    <section title="インストール方法">
+      <ol>
+        <li>Emacs.app を control + クリックし、「パッケージの内容を表示」をクリック</li>
+        <li>Emacs.app/Contents/Resources/Emacs.icns にオリジナルのアイコンファイルがあるので、これを同梱の Emacs.icns と入れ替えます。</li>
+        <li>Mac を再起動させるか、 option + command + esc で Finder を選択し、「再度開く」をクリックします。</li>
+        <li>新しく入れ替えた .icns ファイルの内容が Finder に反映されます。</li>
+      </ol>
+    </section>
+
+    <section title="謝辞">
+      銭谷さん，sakito さんをはじめとする Macemacsjp 開発者の方々，山本さん, users メーリングリストメンバーの方々， ご助言くださったり， この忙しいのに，仕事をさぼってアイコンを作っているのを黙ってみていてくれた，職場スタッフのみなさん， その他，ほんの少しでも携わってくださった多くの方々， みなさんのお力があってこそ, このアイコンを作ることができました。
+      
+      この場を借りて，お礼申し上げます．
+      
+    </section>
+
+
+  </body>
+  
+</doc>

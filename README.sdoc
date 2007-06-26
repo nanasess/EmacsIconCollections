@@ -3,7 +3,7 @@
 <doc xml:lang="ja">
   <head>
     <title>CarbonEmacsIcon</title>
-    <date>2006年5月1日</date>
+    <date>2007年4月10日</date>
     <author>Kentaro Ohkouchi</author>
     <email>nanasess@fsm.ne.jp</email>
     <footer>$Revision$ $Date$</footer>
@@ -31,9 +31,9 @@
     </section>
 
     <section title="ライセンス">
-      GFDL（GNU フリー文書利用許諾契約書）
+      GPL 「一般公衆利用許諾契約書(General Public License)」
 
-      すべての同梱イメージファイルにおいて、GFDL を適用します。
+      すべての同梱イメージファイルにおいて、GPL を適用します。
     </section>
 
     <section title="インストール方法">

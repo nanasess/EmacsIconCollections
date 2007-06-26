@@ -1,7 +1,7 @@
                                 CarbonEmacsIcon
                                 ===============
 
-                                  2006年5月1日
+                                 2007年4月10日
                                 Kentaro Ohkouchi
                                nanasess@fsm.ne.jp
 
@@ -28,8 +28,8 @@
 3 ライセンス
 ------------
 
-  GFDL（GNUフリー文書利用許諾契約書）
-  すべての同梱イメージファイルにおいて、GFDLを適用します。
+  GPL「一般公衆利用許諾契約書(General Public License)」
+  すべての同梱イメージファイルにおいて、GPLを適用します。
 
 
 4 インストール方法

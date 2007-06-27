@@ -3,7 +3,7 @@
 <doc xml:lang="ja">
   <head>
     <title>CarbonEmacsIcon</title>
-    <date>2007年4月10日</date>
+    <date>2007年6月27日</date>
     <author>Kentaro Ohkouchi</author>
     <email>nanasess@fsm.ne.jp</email>
     <footer>$Revision$ $Date$</footer>
@@ -23,10 +23,15 @@
     <section title="同梱イメージファイル">
       <ul>
         <li>Emacs.icns（アイコン用ファイル）</li>
-        <li>emacs_icon-1.0.ai（元画像 Illustrator10形式）</li>
-        <li>emacs_icon-1.0.eps（Illustrator10 EPS形式）</li>
-        <li>emacs_icon-1.0.psd（Illustrator から Photoshop形式へ書き出したもの）</li>
-        <li>emacs_icon-1.0.png（Photoshop から PNG形式へ書き出したもの）</li>
+	<li>document.icns（ドキュメント用アイコンファイル）</li>
+        <li>emacs_icon.ai（元画像 Illustrator10形式）</li>
+	<li>document.ai（ドキュメント用 元画像 Illustrator10形式）</li>
+        <li>emacs_icon.eps（Illustrator10 EPS形式）</li>
+	<li>document.eps（ドキュメント用 Illustrator10 EPS形式）</li>
+        <li>emacs_icon.psd（Illustrator から Photoshop形式へ書き出したもの）</li>
+	<li>document.psd（ドキュメント用 Illustrator から Photoshop形式へ書き出したもの）</li>
+        <li>emacs_icon.png（Photoshop から PNG形式へ書き出したもの）</li>
+	<li>document.png（ドキュメント用 Photoshop から PNG形式へ書き出したもの）</li>
       </ul>
     </section>
 
@@ -43,6 +48,14 @@
         <li>Mac を再起動させるか、 option + command + esc で Finder を選択し、「再度開く」をクリックします。</li>
         <li>新しく入れ替えた .icns ファイルの内容が Finder に反映されます。</li>
       </ol>
+      <subsection title="ドキュメント用アイコン">
+	ドキュメント用のアイコンを反映させるには, Info.plist を修正する必要があります. Carbon Emacs Package のものを使用するのが簡単な方法です.
+	<ul>
+	  <li>
+	    http://svn.sourceforge.jp/cgi-bin/viewcvs.cgi/zenitani/CarbonEmacs/Resources/?root=macwiki#dirlist
+	  </li>
+	</ul>
+      </subsection>
     </section>
 
     <section title="謝辞">

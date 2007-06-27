@@ -1,7 +1,7 @@
                                 CarbonEmacsIcon
                                 ===============
 
-                                 2007年4月10日
+                                 2007年6月28日
                                 Kentaro Ohkouchi
                                nanasess@fsm.ne.jp
 
@@ -19,10 +19,15 @@
 ----------------------
 
     - Emacs.icns（アイコン用ファイル）
-    - emacs_icon-1.0.ai（元画像Illustrator10形式）
-    - emacs_icon-1.0.eps（Illustrator10 EPS形式）
-    - emacs_icon-1.0.psd（IllustratorからPhotoshop形式へ書き出したもの）
-    - emacs_icon-1.0.png（PhotoshopからPNG形式へ書き出したもの）
+    - document.icns（ドキュメント用アイコンファイル）
+    - emacs_icon.ai（元画像Illustrator10形式）
+    - document.ai（ドキュメント用元画像Illustrator10形式）
+    - emacs_icon.eps（Illustrator10 EPS形式）
+    - document.eps（ドキュメント用Illustrator10 EPS形式）
+    - emacs_icon.psd（IllustratorからPhotoshop形式へ書き出したもの）
+    - document.psd（ドキュメント用IllustratorからPhotoshop形式へ書き出したもの）
+    - emacs_icon.png（PhotoshopからPNG形式へ書き出したもの）
+    - document.png（ドキュメント用PhotoshopからPNG形式へ書き出したもの）
 
 
 3 ライセンス
@@ -41,6 +46,15 @@
    3. Macを再起動させるか、option + command + escでFinderを選択し、「再度開く」
       をクリックします。
    4. 新しく入れ替えた.icnsファイルの内容がFinderに反映されます。
+
+
+4.1 ドキュメント用アイコン
+--------------------------
+
+  ドキュメント用のアイコンを反映させるには, Info.plistを修正する必要があります.
+Carbon Emacs Packageのものを使用するのが簡単な方法です.
+
+    - http://svn.sourceforge.jp/cgi-bin/viewcvs.cgi/zenitani/CarbonEmacs/Resources/?root=macwiki#dirlist
 
 
 5 謝辞

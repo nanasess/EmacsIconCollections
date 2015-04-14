@@ -5,7 +5,9 @@ Emacs Icon Collections.
 ------
 
 Emacs 用のアイコン集です.
+
 Emacs の E と M をモチーフとし, GNU horn のイメージを合致させてみました.
+
 Andrew Zhilin さんが作成された [Emacs22 のアイコン](http://ourcomments.org/Emacs/NewIcons.html#AndrewZhilin) のイメージを踏襲しています.
 
 付属のペンは, パーカー51という万年筆をイメージして描きました.
@@ -52,12 +54,12 @@ Andrew Zhilin さんが作成された [Emacs22 のアイコン](http://ourcomme
                       |
                       +- svg --- document.svg (SVG document icon)
 ```
-					  
 
 ライセンス
 ------------
 
 GPL「一般公衆利用許諾契約書(General Public License)」
+
 すべての同梱イメージファイルにおいて、GPLを適用します.
 
 
@@ -71,7 +73,12 @@ GPL「一般公衆利用許諾契約書(General Public License)」
 Emacs22 のアイコンを作成された Andrew Zhilin さん,
 いつも厳しく貴重な意見を下さった Richard Stallman さん,
 Dan Nicolaescu さん, emacs-devel メーリングリストメンバーの方々,
-その他, ほんの少しでも携わってくださった多くの方々, みなさまのお力が
-あってこそ, このアイコンを作ることができました.
+その他, ほんの少しでも携わってくださった多くの方々,
+みなさまのお力があってこそ, このアイコンを作ることができました.
 
 この場を借りて, お礼申し上げます.
+
+See Also
+----------
+
+[Emacs アイコンがコミットされるまで](http://www.slideshare.net/nanasess/emacs-5282932)

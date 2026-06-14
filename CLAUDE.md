@@ -37,4 +37,4 @@ Emacs の `E` と `M` をモチーフに GNU horn のイメージを合致させ
 ## 参考
 
 - README.md にデザインの意図、同梱ファイル一覧、謝辞がまとまっている。
-- 関連スライド: 「Emacs アイコンがコミットされるまで」(slideshare.net/nanasess/emacs-5282932)
+- 関連スライド: 「Emacs アイコンがコミットされるまで」(https://speakerdeck.com/nanasess/emacs-aikongakomitutosarerumade)

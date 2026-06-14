@@ -81,4 +81,6 @@ Dan Nicolaescu さん, emacs-devel メーリングリストメンバーの方々
 See Also
 ----------
 
-[Emacs アイコンがコミットされるまで](http://www.slideshare.net/nanasess/emacs-5282932)
+Emacs アイコンがコミットされるまで (スライド)
+
+[![Emacs アイコンがコミットされるまで](https://files.speakerdeck.com/presentations/2151b3bbd381469f85dbc765628a8f4d/slide_0.jpg)](https://speakerdeck.com/nanasess/emacs-aikongakomitutosarerumade)
